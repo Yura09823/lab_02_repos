@@ -4,6 +4,10 @@ using namespace std;
 
 int main()
 {
+    
+    cout << "Hello, World!" << endl;
+
+
     double x;  // вхідний параметр 
     double z1; // результат обчислення 1-го виразу 
     // double z2; // результат обчислення 2-го виразу 
